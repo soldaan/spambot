@@ -6,9 +6,6 @@ count = int(input("Введите количество сообщенией:"))
 print("5 секундо до...") 
 time.sleep(5)
 
-for amount in range(count):
-    pass
-
 while count > 0:
     count -= 1
 
